@@ -222,6 +222,7 @@ trailing_comma_inline_array = true
 default-groups = [
     "dev",
 ]
+version = "latest"
 
 [[tool.uv.index]]
 name = "nvidia-pypi"
